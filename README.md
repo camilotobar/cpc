@@ -1,2 +1,2 @@
-# cpc
+# CPC
 Computer Programming Club Exercises
